@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+body {
+
+ font-family: Arial, Helvetica, sans-serif;
+}
+#mynav{
+            margin-left: auto;
+}
+#price{
+    font-weight: bold;
+}
+
+@media( max-width: 1200px){
+    #productdesc> span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+}
+#myproduct{
+    
+}
+#btncart{
+    position: absolute;
+    margin-top: 10px;
+}
+
